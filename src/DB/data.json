@@ -91,13 +91,6 @@
       "id": 14
     },
     {
-      "day": "1",
-      "eng": "hi",
-      "kor": "안녕",
-      "isDone": false,
-      "id": 15
-    },
-    {
       "day": "3",
       "eng": "img",
       "kor": "안녕",
@@ -117,6 +110,13 @@
       "kor": "안녕이라는 뜻",
       "isDone": false,
       "id": 18
+    },
+    {
+      "day": "6",
+      "eng": "name",
+      "kor": "이름",
+      "isDone": false,
+      "id": 19
     }
   ]
 }
